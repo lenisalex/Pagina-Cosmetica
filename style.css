@@ -1,0 +1,80 @@
+body {
+	font-family: Roboto, Arial, sans-serif;
+}
+
+header {
+	text-align: center;
+	padding: 120px 10px;
+	background-image: url(https://images.unsplash.com/photo-1528372531841-f1228963b0af?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80);
+	background-size: cover;
+	background-position: center;
+}
+
+div {
+	max-width: 600px;
+	margin: 40px auto;
+	padding: 10px;
+}
+
+footer {
+	text-align: left;
+	padding: 20px;
+	background-color: #164455;
+	text-align: center;
+}
+
+a {
+	color: #164455;
+}
+
+a:hover {
+	color: #ffefe8;
+}
+
+.botão {
+	background-color: #164455;
+	padding: 10px 20px;
+	border-radius: 24px;
+	text-decoration: none;
+	color: #ffefe8;
+	font-weight: bold;
+}
+
+.botão:hover {
+	color: #28677C;
+}
+
+.lista-links {
+	list-style: none;
+	margin-bottom: 0px;
+}
+
+.lista-links a {
+	color: #edd9fc;
+}
+
+.lista-links a:hover {
+	color: #ffefe8;
+}
+
+.lista-links li {
+	display: inline;
+	margin: 0 10px;
+}
+
+h1 {
+	font-family: Lobster, Arial, sans-serif;
+	font-size: 48px;
+	color: #164455;
+	text-shadow: 2px 2px 4px #ffefe8;
+}
+
+.pergunta {
+	font-family: Montserrat, Arial, sans-serif;
+	font-size: 24px;
+	margin-bottom: 32px;
+}
+
+#explicação {
+	min-height: 74px;
+}
