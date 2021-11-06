@@ -15,7 +15,7 @@ const explicação = document.getElementById('explicação');
 
 //2. tenho de por o elemento resposta certa a escutar o meu 'click'
 itemDesodorizante.addEventListener('click', (event) => {
-	explicação.innerHTML = "<strong>Correto!</strong>🥳 O desodorizante é o  que mais faz alergia e contém químicos quando comprado no supermercado normal. Ter um desodorizante natural é muito importante e, embora possa ser um pouco estranho ao início, é o que mais vale a pena a longo prazo."
+	explicação.innerHTML = "<strong>Correto!</strong>🥳 O desodorizante é o item que mais faz alergia e contém químicos quando comprado no supermercado normal. Ter um desodorizante natural é muito importante e, embora possa ser um pouco estranho ao início, é o que mais vale a pena a longo prazo."
 })
 
 // GOAL RESPOSTAS ERRADAS
